@@ -1,0 +1,8 @@
+{
+	"folders": [
+		{
+			"name": "serial:/COM5",
+			"uri": "serial://com5/"
+		}
+	]
+}
